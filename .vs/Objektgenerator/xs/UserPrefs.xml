@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{FB585B30-5221-4C8D-804B-EE9B75B8183B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Objektgenerator/Classes/Tiger.cs">
+    <Files>
+      <File FileName="Objektgenerator/Program.cs" Line="12" Column="58" />
+      <File FileName="Objektgenerator/Classes/Objectgenerator.cs" Line="41" Column="52" />
+      <File FileName="Objektgenerator/Classes/DataTypeConverter.cs" Line="1" Column="1" />
+      <File FileName="Objektgenerator/Classes/Monkey.cs" Line="1" Column="1" />
+      <File FileName="Objektgenerator/Classes/Animal.cs" Line="1" Column="1" />
+      <File FileName="Objektgenerator/Classes/Car.cs" Line="8" Column="6" />
+      <File FileName="Objektgenerator/Classes/Tiger.cs" Line="21" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Objektgenerator" expanded="True">
+            <Node name="Objektgenerator" expanded="True">
+              <Node name="Classes" expanded="True" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Objektgenerator PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
